@@ -12,7 +12,7 @@ Rest is easy :)
 
 Technologies Used:-
 1) C++
-2)Graphics C++
+2) Graphics C++
 
 
 Further Changes:-
